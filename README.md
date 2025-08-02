@@ -47,3 +47,11 @@ Em constante evolução, transformando desafios em aprendizado, sempre em movime
   <a href="https://www.linkedin.com/in/maicon-venâncio-4274b52a3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://github.com/mvmvenancio" target="_blank"><img src="https://img.shields.io/badge/-GitHub-800020?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mvmvenancio/mvmvenancio/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mvmvenancio/mvmvenancio/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mvmvenancio/mvmvenancio/output/github-contribution-grid-snake.svg">
+</picture>
