@@ -22,7 +22,7 @@ Em constante evolução, transformando desafios em aprendizado, sempre em movime
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvmvenancio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 ---
 
@@ -30,13 +30,15 @@ Em constante evolução, transformando desafios em aprendizado, sempre em movime
 
 <div style="display: inline_block"><br>
   <img align="center" alt="mv-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="mv-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="mv-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="mv-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="mv-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="mv-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="mv-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="mv-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="mv-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+  <img align="center" alt="mv-PowerBI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
+  <img align="center" alt="mv-DataScience" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png">
+  <img align="center" alt="mv-AI" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/4712/4712107.png">
+</div><br>
   
 ---
 
@@ -46,7 +48,7 @@ Em constante evolução, transformando desafios em aprendizado, sempre em movime
   <a href = "mailto:mvmvenancio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maicon-venâncio-4274b52a3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://github.com/mvmvenancio" target="_blank"><img src="https://img.shields.io/badge/-GitHub-800020?style=for-the-badge&logo=github&logoColor=white"></a>
-</div>
+</div><br>
 
 ---
 
