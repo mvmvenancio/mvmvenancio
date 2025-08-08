@@ -2,6 +2,12 @@
 Analista de dados · Analista de QA · Analista · Desenvolvedor de front-end · Analista BI <br>
 Em constante evolução, transformando desafios em aprendizado, sempre em movimento e crescendo a cada passo.
 
+<img 
+  height="200" 
+  src="https://github-readme-streak-stats.herokuapp.com?user=mvmvenancio&theme=tokyonight&locale=pt-br" 
+/>
+
+
 ### 📊 Estatísticas
 
 <p>
