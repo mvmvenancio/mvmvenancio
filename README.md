@@ -2,27 +2,6 @@
 Analista de dados · Analista de QA · Analista · Desenvolvedor de front-end · Analista BI <br>
 Em constante evolução, transformando desafios em aprendizado, sempre em movimento e crescendo a cada passo.
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="400" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=mvmvenancio&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=30000000000" 
-  />
-</p>
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="400"
-      style="padding-right: 10px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvmvenancio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=30000000000" 
-  />
-</p>
-<br><br><br><br><br><br><br><br><br>
 
 ---
 
